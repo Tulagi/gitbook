@@ -17,7 +17,7 @@ git push origin main:main
 # branch gitbook
 cd ../gitbook_br_gitbook/
 
-ls | grep -vP "docs/" 
+ls | grep -v "docs/" | xargs rm -rf
 # mv docs/* .
 # rm -rf docs/ publish.sh
 
