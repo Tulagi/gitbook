@@ -17,7 +17,8 @@
         "collapsible-menu",
         "hide-element",
         "anchor-navigation-ex",
-        "disqus"
+        "disqus",
+        "tags"
     ],
     "pluginsConfig": {
         "disqus": {
