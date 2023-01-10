@@ -17,14 +17,14 @@ git push origin main:main
 # branch gitbook
 cd ../gitbook_br_gitbook/
 
-ls | grep -vP "docs/" | xargs rm -rf
-mv docs/* .
-rm -rf docs/ publish.sh
+ls | grep -vP "docs/" 
+# mv docs/* .
+# rm -rf docs/ publish.sh
 
-git pull -p
-git add .
-git commit -m "$(date): gitbook branch - publish gitbook"
-git push origin gitbook:gitbook
+# git pull -p
+# git add .
+# git commit -m "$(date): gitbook branch - publish gitbook"
+# git push origin gitbook:gitbook
 
 # git branch --set-upstream-to=origin/gitbook gitbook
 # https://tulagi.github.io/gitbook/
