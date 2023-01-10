@@ -5,6 +5,7 @@ set -x
 gitbook install
 gitbook build . docs
 
+rm -rf ../gitbook_br_gitbook/docs/
 mv docs/ ../gitbook_br_gitbook/
 
 git pull -p
@@ -16,7 +17,7 @@ git push origin main:main
 # branch gitbook
 cd ../gitbook_br_gitbook/
 
-ls -al | grep -vP "docs/|\.git/|\./|\.\./" | xargs rm -rf
+ls -a | grep -vP "docs/|\.git/|\./|\.\./" | xargs rm -rf
 mv docs/* .
 rm -rf docs/ publish.sh
 
