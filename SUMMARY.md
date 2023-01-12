@@ -8,4 +8,7 @@
     * [Python](1_Languages/Python/README.md)
         * [Python语言语法小结](1_Languages/Python/语法小结.md)
         * [常用代码片段](1_Languages/Python/常用代码片段.md)
+    * [Java](1_Languages/Java/README.md)
+        * [Java语言语法小结](1_Languages/Java/语法小结.md)
+        * [常用代码片段](1_Languages/Java/常用代码片段.md)
 * [Tags](tags.md)
