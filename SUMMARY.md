@@ -10,6 +10,8 @@
         * [Java语言语法小结](1_Programming/Java/语法小结.md)
         * [常用代码片段](1_Programming/Java/常用代码片段.md)
         * [static和final的理解](1_Programming/Java/static_final.md)
+        * [常用数据结构的初始化](1_Programming/Java/init_data_structure.md)
+        * [常用数据结构间转换](1_Programming/Java/change_data_structure.md)
     * [中间件](1_Programming/middleware/README.md)
         * [redis](1_Programming/middleware/redis.md)
             * [redis](1_Programming/middleware/redis/redistemplate.md)
