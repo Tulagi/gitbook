@@ -2,7 +2,7 @@ set -e
 set -x
 
 # branch main
-gitbook install
+# gitbook install
 gitbook build . docs
 
 rm -rf ../gitbook_br_gitbook/docs/
