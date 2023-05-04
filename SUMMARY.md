@@ -12,6 +12,7 @@
         * [static和final的理解](1_Programming/Java/static_final.md)
         * [常用数据结构的初始化](1_Programming/Java/init_data_structure.md)
         * [常用数据结构间转换](1_Programming/Java/change_data_structure.md)
+    * [Shell](1_Programming/Shell/README.md)
     * [中间件](1_Programming/Middleware/README.md)
         * [redis](1_Programming/Middleware/redis.md)
             * [redis](1_Programming/Middleware/redis/redistemplate.md)
