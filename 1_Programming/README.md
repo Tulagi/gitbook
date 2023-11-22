@@ -1,4 +1,4 @@
-# 编程语言语法小结
+# 编程
 
 * [Python](Python/README.md)
     * [Python语言语法小结](Python/语法小结.md)
@@ -6,3 +6,14 @@
 * [Java](Java/README.md)
     * [Java语言语法小结](Java/语法小结.md)
     * [常用代码片段](Java/常用代码片段.md)
+    * [static和final的理解](Java/static_final.md)
+    * [常用数据结构的初始化](Java/init_data_structure.md)
+    * [常用数据结构间转换](Java/change_data_structure.md)
+* [Shell](Shell/README.md)
+* [中间件](Middleware/README.md)
+    * [redis](Middleware/redis.md)
+        * [redis](Middleware/redis/redistemplate.md)
+    * [nginx](Middleware/nginx.md)
+    * [kafka](Middleware/kafka.md)
+* [字体](Font/README.md)
+    * [编程字体](Font/NotoSansMonoCJKsc.md)
